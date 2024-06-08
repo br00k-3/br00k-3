@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rh-35
+- 👋 Hi, I’m Brooke
 - 👀 I’m interested in Web development and technical theater
 - 🌱 I’m currently learning NextJS
-- 📫 How to reach me rheamilberg@gmail.com
+- 📫 How to reach me brookemilberg@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Nerd
 
